@@ -1,38 +1,8 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0f"/>
-      <stop offset="35%" style="stop-color:#1a0533"/>
-      <stop offset="70%" style="stop-color:#2d1b69"/>
-      <stop offset="100%" style="stop-color:#0f3460"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c4b5fd"/>
-      <stop offset="50%" style="stop-color:#e0d7ff"/>
-      <stop offset="100%" style="stop-color:#93c5fd"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)"/>
-  <!-- decorative dots -->
-  <circle cx="60" cy="40" r="2" fill="#a78bfa" opacity="0.5"/>
-  <circle cx="120" cy="80" r="1.5" fill="#60a5fa" opacity="0.4"/>
-  <circle cx="820" cy="50" r="2" fill="#c4b5fd" opacity="0.5"/>
-  <circle cx="780" cy="120" r="1.5" fill="#60a5fa" opacity="0.3"/>
-  <circle cx="200" cy="160" r="1" fill="#a78bfa" opacity="0.4"/>
-  <circle cx="700" cy="30" r="1.5" fill="#e0d7ff" opacity="0.3"/>
-  <!-- wave bottom -->
-  <path d="M0,160 Q225,130 450,155 Q675,180 900,150 L900,200 L0,200 Z" fill="#0a0a0f" opacity="0.6"/>
-  <!-- name -->
-  <text x="450" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="url(#textGrad)" filter="url(#glow)">Ananya Mehrotra</text>
-  <!-- subtitle -->
-  <text x="450" y="140" text-anchor="middle" font-family="monospace" font-size="14" fill="#94a3b8" letter-spacing="3">AI Engineer  ·  Full-Stack  ·  Research Intern @ Samsung R&amp;D</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0f3460&height=180&section=header&text=Ananya%20Mehrotra&fontSize=52&fontColor=e0d7ff&fontAlignY=45&animation=fadeIn" width="100%" />
+
+<h3><code>AI Engineer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Research Intern @ Samsung R&D</code></h3>
 
 <br/>
 
@@ -270,16 +240,6 @@ AI-powered smartphone navigation assistant for accessibility and automation.
 
 <br/>
 
-<svg width="100%" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0f3460"/>
-      <stop offset="40%" style="stop-color:#2d1b69"/>
-      <stop offset="70%" style="stop-color:#1a0533"/>
-      <stop offset="100%" style="stop-color:#0a0a0f"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,40 Q225,70 450,45 Q675,20 900,50 L900,100 L0,100 Z" fill="url(#footerBg)"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:2d1b69,70:1a0533,100:0a0a0f&height=100&section=footer" width="100%" />
 
 </div>
