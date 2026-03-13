@@ -19,7 +19,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ananyamehrotra&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/CGPA-9.7%20%2F%2010-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/CGPA-9.6%20%2F%2010-blueviolet?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-22c55e?style=flat-square" />
 
 </div>
