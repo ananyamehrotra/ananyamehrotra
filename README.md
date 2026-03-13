@@ -39,11 +39,11 @@ ananya = {
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| **[LUMÉ](https://github.com/annayamehrotra/lume)** | Flask · Flutter · Gemini · Web3 | AI fashion stylist using Korean Personal Color Theory |
-| **[Vani](https://github.com/annayamehrotra/vani)** | MediaPipe · CNN · React · TTS | Real-time facial gesture → speech pipeline (SIH 2025) |
-| **[Astraeus](https://github.com/annayamehrotra/astraeus)** | — | — |
-| **[ARspacesharee](https://github.com/annayamehrotra/arspacesharee)** | WebXR · Flask · Socket.IO · Flutter | Spatial sticky notes with real-time sync |
-| **[LLM Fight Club](https://github.com/annayamehrotra/llm-fight-club)** | Groq · JS · Pixel-art | Real-time AI model benchmarking arena |
+| **[LUMÉ](https://github.com/ananyamehrotra/lume)** | Flask · Flutter · Gemini · Web3 | AI fashion stylist using Korean Personal Color Theory |
+| **[Vani](https://github.com/ananyamehrotra/vani)** | MediaPipe · CNN · React · TTS | Real-time facial gesture → speech pipeline (SIH 2025) |
+| **[Astraeus](https://github.com/ananyamehrotra/astraeus)** | — | — |
+| **[ARspacesharee](https://github.com/ananyamehrotra/arspacesharee)** | WebXR · Flask · Socket.IO · Flutter | Spatial sticky notes with real-time sync |
+| **[LLM Fight Club](https://github.com/ananyamehrotra/llm-fight-club)** | Groq · JS · Pixel-art | Real-time AI model benchmarking arena |
 
 ---
 
@@ -78,10 +78,10 @@ ananya = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=annayamehrotra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=79c0ff&text_color=cdd9e5&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annayamehrotra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ananyamehrotra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=79c0ff&text_color=cdd9e5&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyamehrotra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd9e5&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com?user=annayamehrotra&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=c792ea&ring=79c0ff&fire=ff9800&currStreakLabel=c792ea" />
+<img src="https://streak-stats.demolab.com?user=ananyamehrotra&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=c792ea&ring=79c0ff&fire=ff9800&currStreakLabel=c792ea" />
 
 </div>
 
@@ -108,9 +108,9 @@ ananya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annayamehrotra)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayamehrotra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ananya-mehrotra-079a97316)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyamehrotra)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyamehrotra2236@gmail.com)
 
 </div>
 
