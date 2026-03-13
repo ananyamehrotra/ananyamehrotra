@@ -204,14 +204,11 @@ AI-powered smartphone navigation assistant for accessibility and automation.
 ║       Research Intern · Smart App Assist                         ║
 ║       YOLOv8 · Vision-Language Model · RAG · Android             ║
 ║                                                                  ║
-║   🚀  Entrepreneurship Development Cell — Upstarters / Edhitha  ║
+║   🚀  Entrepreneurship Development Cell — Upstarters            ║
 ║       Core Member · Hackathons · Startup Ecosystem               ║
 ║                                                                  ║
 ║   👩‍💻  Developer Students Club (DSC), RIT                        ║
 ║       Core Member · Open Source · LLM Fight Club                 ║
-║                                                                  ║
-║   🏆  Smart India Hackathon 2025                                 ║
-║       Built Vani — gesture-to-speech for telemedicine            ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
