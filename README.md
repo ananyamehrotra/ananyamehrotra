@@ -38,7 +38,7 @@
 data class Ananya(
     val university  : String  = "Ramaiah Institute of Technology, Bangalore  (2024–28)",
     val research    : String  = "Samsung R&D Institute — Smart App Assist (YOLOv8 + VLM + RAG)",
-    val cgpa        : Double  = 9.7,
+    val cgpa        : Double  = 9.6,
     val building    : List<String> = listOf("LUMÉ", "Vani", "Astraeus"),
     val interests   : List<String> = listOf("AI/ML", "WebXR", "Full-Stack", "CTFs", "Hackathons"),
     val funFact     : String  = "I debug faster with lo-fi on 🎧  and caffeine ☕"
