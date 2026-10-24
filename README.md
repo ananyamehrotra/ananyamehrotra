@@ -15,7 +15,7 @@ PASTE_VIDEO_LINK_HERE
 -->
 
 <a href="https://github.com/ananyamehrotra">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2E97&center=true&vCenter=true&multiline=false&width=760&lines=%3E+booting+ananya.exe+...;%3E+Incoming+Intern+%40+NatWest+Group+%F0%9F%8F%A6;%3E+Ex-Research+Intern+%40+Samsung+R%26D+%F0%9F%93%B1;%3E+Project+Intern+%40+Hewlett+Packard+Enterprise+%F0%9F%94%90;%3E+100%25+task+success+%C2%B7+94%25+less+latency+%C2%B7+0+cloud;%3E+Top+0.95%25+JEE+Advanced+%C2%B7+CGPA+9.49;%3E+hackathon+podiums%3A+5+and+counting+%F0%9F%8F%86" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2E97&center=true&vCenter=true&multiline=false&width=760&lines=%3E+booting+ananya.exe+...;%3E+Incoming+Intern+%40+NatWest+Group+%F0%9F%8F%A6;%3E+Ex-Research+Intern+%40+Samsung+R%26D+%F0%9F%93%B1;%3E+Paper+accepted+%40+ICVGIP+2026+%F0%9F%93%84;%3E+Project+Intern+%40+Hewlett+Packard+Enterprise+%F0%9F%94%90;%3E+100%25+task+success+%C2%B7+94%25+less+latency+%C2%B7+0+cloud;%3E+Top+0.95%25+JEE+Advanced+%C2%B7+CGPA+9.49;%3E+hackathon+podiums%3A+5+and+counting+%F0%9F%8F%86" alt="typing intro"/>
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ ananya@pink-vscode:~$ cat status.txt
   ▸ NOW     Intern @ CMTI — building a 5-module ERP for MSMEs
   ▸ NOW     Open Source @ GirlScript Summer of Code 2026 (AI Agent track)
   ▸ NEXT    Incoming Intern @ NatWest Group 🏦   ← loading...  ██████████░░ 83%
-  ▸ PAPER   Smart App Assist → submitted to IEEE ANTS & ICVGIP 2026 📄
+  ▸ PAPER   Smart App Assist → ACCEPTED @ ICVGIP 2026 🎉📄
 ananya@pink-vscode:~$ █
 ```
 
@@ -74,7 +74,7 @@ ananya@pink-vscode:~$ █
 - 🔐 **HPE** project intern
 - 📱 **Samsung R&D** research intern
 - 🏭 **CMTI** ERP intern
-- 📄 1 paper under review
+- 📄 **Paper accepted @ ICVGIP 2026**
 - 🎓 CSE @ RIT · **9.49 CGPA**
 - 🎯 Top **0.95%** JEE Advanced
 - 🏆 **2× winner**, **1× national runner-up**
@@ -147,7 +147,7 @@ gitGraph
   branch research
   commit id: "Samsung R&D"
   commit id: "100% task success"
-  commit id: "paper submitted" type: HIGHLIGHT
+  commit id: "ICVGIP 2026 accepted 🎉" type: HIGHLIGHT
   checkout ananya
   merge research
   branch industry
@@ -205,7 +205,7 @@ gitGraph
 | YOLOv8 mAP50 (2,439 images · 17 classes) | **0.951** |
 | Cloud dependency | **zero** |
 
-📄 Co-authored paper, submitted to **IEEE ANTS** & **ICVGIP 2026**
+📄 Co-authored paper **accepted at ICVGIP 2026** 🎉
 
 </details>
 
@@ -278,7 +278,7 @@ A national-scale healthcare records management system, built in a hackathon spri
 |:---:|:---:|:---:|:---:|:---:|
 | Winner · 100+ teams | Winner · 50+ teams | National Runner-Up | Top 10 / 500+ | Top 6 / 250+ |
 
-<sub>+ multiple E-Cell Business Plan wins · 5⭐ Gold Java on HackerRank · 98.7 %ile JEE Mains (99 in Maths) · 500+ DSA problems</sub>
+<sub>📄 <b>ICVGIP 2026 paper accepted</b> · multiple E-Cell Business Plan wins · 5⭐ Gold Java on HackerRank · 98.7 %ile JEE Mains (99 in Maths) · 500+ DSA problems</sub>
 
 </div>
 
