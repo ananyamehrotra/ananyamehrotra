@@ -1,238 +1,359 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:a855f7,100:0d0d1a&height=220&section=header&text=Ananya%20Mehrotra&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=it's%20me%20and%20my%20pink%20VS%20Code%20against%20the%20world%20🩷&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,40:a855f7,100:ff2e97&height=260&section=header&text=ANANYA%20MEHROTRA&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=builds%20agents%20that%20see%2C%20think%20%26%20tap%20%E2%80%94%20no%20cloud%20required&descAlignY=64&descSize=17&animation=twinkling&stroke=ff2e97&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/ananyamehrotra">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF2E97&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Researcher+%E2%80%A2+Full-Stack+Dev;Ex-Research+Intern+%40+Samsung+R%26D+%F0%9F%93%B1;Project+Intern+%40+Hewlett+Packard+Enterprise+%F0%9F%94%90;Top+0.95%25+%E2%80%94+JEE+Advanced+qualified+%F0%9F%8E%AF;100%25+task+success.+94%25+less+latency.+Zero+cloud.;Hackathon+winner+on+repeat+%F0%9F%8F%86" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2E97&center=true&vCenter=true&multiline=false&width=760&lines=%3E+booting+ananya.exe+...;%3E+Incoming+Intern+%40+NatWest+Group+%F0%9F%8F%A6;%3E+Ex-Research+Intern+%40+Samsung+R%26D+%F0%9F%93%B1;%3E+Project+Intern+%40+Hewlett+Packard+Enterprise+%F0%9F%94%90;%3E+100%25+task+success+%C2%B7+94%25+less+latency+%C2%B7+0+cloud;%3E+Top+0.95%25+JEE+Advanced+%C2%B7+CGPA+9.49;%3E+hackathon+podiums%3A+5+and+counting+%F0%9F%8F%86" alt="typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ananya-mehrotra-079a97316"><img src="https://img.shields.io/badge/LinkedIn-ff2e97?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ananyamehrotra2236@gmail.com"><img src="https://img.shields.io/badge/Gmail-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ananyamehrotra"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ff6ec7"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=ananyamehrotra&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/CGPA-9.49%2F10-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Shipping%20Cool%20Things-ff6ec7?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/ananya-mehrotra-079a97316"><img src="https://img.shields.io/badge/-LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=ff2e97&labelColor=0d0d1a"/></a>
+<a href="mailto:ananyamehrotra2236@gmail.com?subject=Hey%20Ananya%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/-Say%20hi-0d0d1a?style=for-the-badge&logo=gmail&logoColor=ff2e97"/></a>
+<img src="https://komarev.com/ghpvc/?username=ananyamehrotra&style=for-the-badge&color=ff2e97&label=VISITORS"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════  WHOAMI  ═══════════════════════ -->
-
-## 🩷 `$ whoami`
-
-```python
-class Ananya:
-    def __init__(self):
-        self.location     = "Bengaluru, India 🇮🇳"
-        self.education    = "B.E. CSE @ Ramaiah Institute of Technology (2024–28) · CGPA 9.49"
-        self.right_now    = ["Project Intern @ HPE — automated security compliance",
-                             "Intern @ CMTI — MSME ERP (FastAPI · React · PostgreSQL)",
-                             "Open Source @ GSSoC 2026 — AI Agent track"]
-        self.previously   = "Research Intern @ Samsung R&D (PRISM) — Smart App Assist"
-        self.obsessed_with = ["Vision-Language Models", "Agentic AI", "On-device ML",
-                              "LLM infra", "breaking hackathon leaderboards"]
-        self.editor_theme = "pink. obviously. 🩷"
-
-    def motto(self):
-        return "Ship fast, learn faster. ⚡"
+```console
+ananya@pink-vscode:~$ cat status.txt
+  ▸ NOW     Project Intern @ HPE — automating security compliance audits
+  ▸ NOW     Intern @ CMTI — building a 5-module ERP for MSMEs
+  ▸ NOW     Open Source @ GirlScript Summer of Code 2026 (AI Agent track)
+  ▸ NEXT    Incoming Intern @ NatWest Group 🏦   ← loading...  ██████████░░ 83%
+  ▸ PAPER   Smart App Assist → submitted to IEEE ANTS & ICVGIP 2026 📄
+ananya@pink-vscode:~$ █
 ```
 
-<!-- ═══════════════════════  NUMBERS  ═══════════════════════ -->
+<!-- ════════════════════════  CHOOSE YOUR PATH  ════════════════════════ -->
 
-## ⚡ Numbers That Slap
-
-<div align="center">
-
-| 🎯 **100%** | ⚡ **94%** | 🧠 **0.951** | 💻 **500+** | 🏆 **0.95%** |
-|:---:|:---:|:---:|:---:|:---:|
-| task success on a fully-local Android UI agent | VLM inference latency cut with single-call grounding | YOLOv8 mAP50 on a 2,439-image custom dataset | DSA problems across LC · CF · HR · TUF | of students who qualify JEE Advanced — I'm one |
-
-</div>
-
-<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
-
-## 💼 Where I've Been Cooking
-
-```diff
-+ 🏭  Central Manufacturing Technology Institute (CMTI)      Aug 2026 – Present
-!     Intern · MSME ERP System
-      Speccing & building 5 core ERP modules — Sales, Inventory, Procurement,
-      Production, Accounts — on FastAPI · React · PostgreSQL
-
-+ 🔐  Hewlett Packard Enterprise                             Jun 2026 – Present
-!     Project Intern · Continuous Assurance
-      Researched CIS-CAT Pro & OpenSCAP; designed an API-driven pipeline that
-      automates security checklists and kills hours of manual auditing
-
-+ 📱  Samsung R&D Institute, Bangalore (PRISM)               Feb 2026 – Jun 2026
-!     Research Intern · Smart App Assist
-      Fully local Android UI agent: YOLOv8 + Qwen2.5-VL + ADB + Accessibility Tree
-      → 100% task success · 99.3% reliability (n=20) · 94% faster VLM inference
-      → Research paper submitted to IEEE ANTS & ICVGIP 2026 📄
-
-+ 🌱  GirlScript Summer of Code 2026                         May 2026 – Present
-!     Open Source Contributor · AI Agent + Open Source tracks
-```
-
-<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
-
-## 🚀 Things I've Built
+## 🎮 Choose your player
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 📱 Smart App Assist
-**Autonomous on-device phone agent** · *Samsung R&D*
-
-Sees your screen, understands it, taps for you — no cloud. YOLOv8 detection + Qwen2.5-VL grounding + ADB execution, benchmarked across 3 execution modes.
-
-`YOLOv8` `Qwen2.5-VL` `ADB` `Android` `Research`
+### 👔 Recruiter
+<sub>the 30-second version</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🩺 [GitHopper](https://github.com/ananyamehrotra?tab=repositories&q=githopper)
-**GitHub repo health analyzer**
+### 👩‍💻 Developer
+<sub>show me the architecture</sub>
 
-Point it at a repo → automated security review, tech-debt quantification and archetype classification via a multi-prompt local-LLM synthesis pipeline with confidence scoring.
+</td>
+<td width="33%" align="center" valign="top">
 
-`Python` `Flask` `React` `Ollama` `AWS`
+### 🎲 Just vibing
+<sub>who even is this</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🥊 [LLM Fight Club](https://github.com/ananyamehrotra/llm-fight-club)
-**Real-time LLM boxing arena**
+<details>
+<summary><b>▶ press start</b></summary>
+<br/>
 
-Models go head-to-head with live metrics. Provider-aware Groq/Ollama routing + a hyperparameter *sabotage* system → **30% lower response latency**.
+- 🏦 **NatWest** incoming intern
+- 🔐 **HPE** project intern
+- 📱 **Samsung R&D** research intern
+- 🏭 **CMTI** ERP intern
+- 📄 1 paper under review
+- 🎓 CSE @ RIT · **9.49 CGPA**
+- 🎯 Top **0.95%** JEE Advanced
+- 🏆 **2× winner**, **1× national runner-up**
 
-`Python` `Socket.IO` `Groq` `Ollama` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 [VAAYA](https://github.com/ananyamehrotra?tab=repositories&q=vaaya)
-**Gamified sustainable tourism**
-
-AI-verified travel quests with computer-vision proof checks and predictive crowd heatmaps so you dodge the tourist traps.
-
-`React` `Flask` `Computer Vision` `ML`
+</details>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🌸 [LUMÉ](https://github.com/ananyamehrotra/lume)
-**AI fashion stylist**
+<details>
+<summary><b>▶ press start</b></summary>
+<br/>
 
-Reads your undertone, maps you to a seasonal palette using Korean personal-color theory, and curates outfits in real time.
+```
+screenshot
+   │
+   ▼
+YOLOv8 ─► UI elements
+   │
+   ▼
+Qwen2.5-VL ─► (x, y)
+   │   one call, grounded
+   ▼
+ADB / A11y ─► tap ✓
+```
+Fully on-device.
+**94%** faster inference.
+**100%** task success.
 
-`Flutter` `Flask` `Gemini API`
+</details>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🤟 [Vani](https://github.com/ananyamehrotra/vani)
-**Gesture → speech for telemedicine** · *SIH 2025*
+<details>
+<summary><b>▶ press start</b></summary>
+<br/>
 
-Real-time facial-gesture recognition that gives non-verbal patients a voice.
+- my VS Code theme is pink. non-negotiable 🩷
+- I made LLMs box each other 🥊
+- I sabotage hyperparameters *on purpose*
+- 500+ DSA problems, still loves a hard one
+- Lucknow → Bengaluru
+- lo-fi + chai = prod mode
 
-`MediaPipe` `CNN/MLP` `React` `TTS`
+</details>
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════  TROPHIES  ═══════════════════════ -->
+<!-- ════════════════════════  CAREER GIT GRAPH  ════════════════════════ -->
 
-## 🏆 Trophy Cabinet
+## 🌿 `git log --graph` of my career
+
+```mermaid
+%%{init: { 'theme':'base', 'gitGraph': {'showBranches': true, 'mainBranchName': 'ananya'}, 'themeVariables': {
+  'git0':'#ff2e97','git1':'#a855f7','git2':'#38bdf8','git3':'#f59e0b','git4':'#22c55e',
+  'gitBranchLabel0':'#ffffff','gitBranchLabel1':'#ffffff','gitBranchLabel2':'#ffffff','gitBranchLabel3':'#000000','gitBranchLabel4':'#000000',
+  'commitLabelColor':'#ffffff','commitLabelBackground':'#1a1a2e','commitLabelFontSize':'12px'
+}}}%%
+gitGraph
+  commit id: "JEE Adv · top 0.95%"
+  commit id: "B.E. CSE @ RIT"
+  branch hackathons
+  commit id: "wHACKiest Top 10"
+  commit id: "Promptathon 🥇"
+  commit id: "HPE Thinkathon 🥈"
+  checkout ananya
+  branch research
+  commit id: "Samsung R&D"
+  commit id: "100% task success"
+  commit id: "paper submitted" type: HIGHLIGHT
+  checkout ananya
+  merge research
+  branch industry
+  commit id: "HPE"
+  commit id: "CMTI"
+  commit id: "GSSoC 2026"
+  checkout ananya
+  merge industry
+  commit id: "NatWest 🏦" type: HIGHLIGHT
+```
+
+<!-- ════════════════════════  EXPERIENCE  ════════════════════════ -->
+
+## 💼 Experience <sub><sup>— click to expand</sup></sub>
+
+<details>
+<summary>🏦 &nbsp;<b>NatWest Group</b> — Incoming Intern &nbsp;<code>coming soon 👀</code></summary>
+<br/>
+
+> Next quest unlocked. Banking-scale engineering incoming. Stay tuned.
+
+</details>
+
+<details>
+<summary>🔐 &nbsp;<b>Hewlett Packard Enterprise</b> — Project Intern &nbsp;<code>Jun 2026 – now</code></summary>
+<br/>
+
+**Continuous Assurance: closing the security gap with automated checklists**
+- Researched automated compliance frameworks (**CIS-CAT Pro**, **OpenSCAP**) to replace manual security audits
+- Designed an **API-driven pipeline architecture** for continuous security-checklist automation, saving hours every audit cycle
+
+</details>
+
+<details>
+<summary>🏭 &nbsp;<b>Central Manufacturing Technology Institute</b> — Intern &nbsp;<code>Aug 2026 – now</code></summary>
+<br/>
+
+**MSME ERP System** · `FastAPI` `React` `PostgreSQL`
+- Specifying and building **5 core ERP modules**: Sales, Inventory, Procurement, Production, Accounts
+- 📂 [`msme`](https://github.com/ananyamehrotra/msme)
+
+</details>
+
+<details>
+<summary>📱 &nbsp;<b>Samsung R&D Institute (PRISM)</b> — Research Intern &nbsp;<code>Feb – Jun 2026</code></summary>
+<br/>
+
+**Smart App Assist: a fully local Android UI agent** · `YOLOv8` `Qwen2.5-VL` `ADB` `Accessibility Tree`
+
+| metric | result |
+|---|---|
+| Task success (ADB + YOLO) | **100%** |
+| Reliability (accessibility mode, n=20) | **99.3%** |
+| VLM latency cut (single-call coordinate grounding) | **−94%** |
+| YOLOv8 mAP50 (2,439 images · 17 classes) | **0.951** |
+| Cloud dependency | **zero** |
+
+📄 Co-authored paper, submitted to **IEEE ANTS** & **ICVGIP 2026**
+
+</details>
+
+<details>
+<summary>🌱 &nbsp;<b>GirlScript Summer of Code 2026</b> — Open Source Contributor &nbsp;<code>May 2026 – now</code></summary>
+<br/>
+
+Shipping PRs and closing issues across the **AI Agent** and **Open Source** tracks.
+
+</details>
+
+<!-- ════════════════════════  PROJECTS  ════════════════════════ -->
+
+## 🚀 Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 GitHopper
+<sub>`Python` `Flask` `React` `Ollama` `AWS`</sub>
+
+Paste a repo, get a health report. Automated **security review** + **tech-debt scoring** + repo **archetype classification**, powered by a multi-prompt local-LLM pipeline with dedup and confidence scoring.
+
+[**→ repo**](https://github.com/ananyamehrotra?tab=repositories&q=githopper)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🥊 LLM Fight Club
+<sub>`Python` `Socket.IO` `Groq` `Ollama` `React`</sub>
+
+A real-time boxing arena where LLMs fight it out on live benchmarks. Provider-aware Groq/Ollama routing + a **hyperparameter sabotage** system. **−30% latency.**
+
+[**→ repo**](https://github.com/ananyamehrotra?tab=repositories&q=fight)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 VAAYA
+<sub>`React` `Flask` `Computer Vision` `ML`</sub>
+
+Gamified sustainable tourism. **AI-verified quests**, **CV-based proof checks**, and **predictive crowd heatmaps** so you travel smarter.
+
+[**→ repo**](https://github.com/ananyamehrotra?tab=repositories&q=vaaya)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏥 wHACKiest — Nationwide Health Records
+<sub>`HTML` `JS` · Top 10 / 500+</sub>
+
+A national-scale healthcare records management system, built in a hackathon sprint.
+
+[**→ repo**](https://github.com/ananyamehrotra/whackiest)
+
+</td>
+</tr>
+</table>
+
+<!-- ════════════════════════  TROPHIES  ════════════════════════ -->
+
+## 🏆 Trophy Room
 
 <div align="center">
 
-| | Achievement |
-|:---:|:---|
-| 🥈 | **Nationwide Runner-Up** — HPE Thinkathon |
-| 🥇 | **Winner** among 100+ teams — Promptathon Hackathon |
-| 🥇 | **Winner** among 50+ teams — IEEE WIE EmpowerHer Ideathon |
-| 🔥 | **Top 10 / 500+** — wHACKiest 2025 |
-| 🔥 | **Top 6 / 250+** — HackAWAR |
-| 💼 | Multiple wins — E-Cell Business Plan Competitions |
-| ☕ | **5⭐ Gold** Java badge — HackerRank |
-| 📈 | **98.7 %ile** JEE Mains · **99 %ile** in Maths |
+| 🥇 **Promptathon** | 🥇 **IEEE WIE EmpowerHer** | 🥈 **HPE Thinkathon** | 🔥 **wHACKiest '25** | 🔥 **HackAWAR** |
+|:---:|:---:|:---:|:---:|:---:|
+| Winner · 100+ teams | Winner · 50+ teams | National Runner-Up | Top 10 / 500+ | Top 6 / 250+ |
+
+<sub>+ multiple E-Cell Business Plan wins · 5⭐ Gold Java on HackerRank · 98.7 %ile JEE Mains (99 in Maths) · 500+ DSA problems</sub>
 
 </div>
 
-<!-- ═══════════════════════  STACK  ═══════════════════════ -->
+<!-- ════════════════════════  STACK  ════════════════════════ -->
 
-## 🛠️ Arsenal
+## 🧠 Brain map
+
+```mermaid
+mindmap
+  root((🩷 Ananya))
+    AI / ML
+      PyTorch
+      TensorFlow
+      YOLOv8
+      VLMs
+      RAG
+      Agentic AI
+      RL · PPO
+      GNNs
+    Backend
+      FastAPI
+      Flask
+      Django
+      Socket.IO
+    Frontend
+      React
+      Tailwind
+    Data
+      PostgreSQL
+      MySQL
+      MongoDB
+      Pinecone
+    Ops
+      Docker
+      GCP
+      AWS
+      Linux
+    Languages
+      Python
+      Java
+      C
+      SQL
+```
 
 <div align="center">
-
-**Languages & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,js,html,tailwind,react,flask,django,fastapi&theme=dark" />
-
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=ff6ec7"/>
-<img src="https://img.shields.io/badge/YOLOv8-1a1a2e?style=for-the-badge&logo=yolo&logoColor=ff6ec7"/>
-<img src="https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logo=ollama&logoColor=ff6ec7"/>
-<img src="https://img.shields.io/badge/Pinecone-1a1a2e?style=for-the-badge&logoColor=ff6ec7"/>
-
-`RAG` · `Agentic AI` · `VLMs` · `GNNs` · `RL (PPO)` · `NLP` · `Transfer Learning`
-
-**Data, Cloud & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,gcp,aws,linux,git,github,vscode,idea,pycharm&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=py,java,c,pytorch,tensorflow,opencv,fastapi,flask,django,react,tailwind,postgres,mysql,mongodb,docker,gcp,aws,linux,git,vscode&perline=10&theme=dark"/>
 </div>
 
-<!-- ═══════════════════════  STATS  ═══════════════════════ -->
+<!-- ════════════════════════  STATS  ════════════════════════ -->
 
-## 📊 GitHub Pulse
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyamehrotra&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=ff2e97&icon_color=ff6ec7&text_color=f5d0fe&ring_color=a855f7&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyamehrotra&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=ff2e97&text_color=f5d0fe&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=ananyamehrotra&hide_border=true&background=0d0d1a&stroke=a855f7&ring=ff2e97&fire=ff6ec7&currStreakLabel=ff2e97&sideLabels=f5d0fe&currStreakNum=ffffff&sideNums=ffffff&dates=c4b5fd" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ananyamehrotra&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananyamehrotra&bg_color=0d0d1a&color=f5d0fe&line=ff2e97&point=a855f7&area=true&area_color=ff2e97&hide_border=true" />
-
-</div>
-
-<!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
+## 📊 Live telemetry
 
 <div align="center">
 
-### 🐍 Watch the snake eat my commits
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ananyamehrotra&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=ff2e97&icon_color=a855f7&text_color=f5d0fe&ring_color=ff2e97&count_private=true&rank_icon=github"/>
+<img height="165" src="https://streak-stats.demolab.com?user=ananyamehrotra&hide_border=true&background=0d0d1a&stroke=a855f7&ring=ff2e97&fire=ff2e97&currStreakLabel=ff2e97&sideLabels=f5d0fe&currStreakNum=ffffff&sideNums=ffffff&dates=c4b5fd"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananyamehrotra&bg_color=0d0d1a&color=f5d0fe&line=ff2e97&point=a855f7&area=true&area_color=ff2e97&hide_border=true&custom_title=commit%20frequency%20%C2%B7%20pink%20edition"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-light.svg"/>
+  <img alt="pink snake eating contributions" src="https://raw.githubusercontent.com/ananyamehrotra/ananyamehrotra/output/snake-dark.svg"/>
 </picture>
 
 </div>
 
-<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<!-- ════════════════════════  EASTER EGG  ════════════════════════ -->
+
+<details>
+<summary><sub>🥚 psst... don't click this</sub></summary>
+<br/>
+
+```python
+>>> import ananya
+>>> ananya.secret()
+'you clicked it anyway. curiosity like that? we should build something together.'
+>>> ananya.contact()
+'ananyamehrotra2236@gmail.com  🩷'
+```
+
+</details>
 
 <div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1400&color=A855F7&center=true&vCenter=true&width=520&lines=thanks+for+scrolling+this+far+%F0%9F%A9%B7;now+go+star+something+%E2%AD%90;ananya+%3E%3E+exit(0)"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+research+%26+internship+collabs+%F0%9F%A4%9D;Let's+build+something+wild+together+%F0%9F%A9%B7" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:a855f7,100:ff2e97&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,60:a855f7,100:0d0d1a&height=110&section=footer" width="100%"/>
 
 </div>
