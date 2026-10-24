@@ -2,6 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,40:a855f7,100:ff2e97&height=260&section=header&text=ANANYA%20MEHROTRA&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=builds%20agents%20that%20see%2C%20think%20and%20tap%20%E2%80%94%20no%20cloud%20required&descAlignY=64&descSize=17&animation=twinkling&stroke=ff2e97&strokeWidth=1" width="100%"/>
 
+<img src="./assets/ananya-ascii.svg" width="460" alt="ASCII portrait of Ananya rendering line by line"/>
+
+<!-- 🎥 AI avatar video: drag your .mp4 into GitHub's editor, then paste the generated
+     https://github.com/user-attachments/assets/... link on its own line inside the <details> below,
+     and delete the two comment markers around it.
+<details>
+<summary><b>🎥 meet the human behind the pink terminal</b></summary>
+<br/>
+PASTE_VIDEO_LINK_HERE
+</details>
+-->
+
 <a href="https://github.com/ananyamehrotra">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF2E97&center=true&vCenter=true&multiline=false&width=760&lines=%3E+booting+ananya.exe+...;%3E+Incoming+Intern+%40+NatWest+Group+%F0%9F%8F%A6;%3E+Ex-Research+Intern+%40+Samsung+R%26D+%F0%9F%93%B1;%3E+Project+Intern+%40+Hewlett+Packard+Enterprise+%F0%9F%94%90;%3E+100%25+task+success+%C2%B7+94%25+less+latency+%C2%B7+0+cloud;%3E+Top+0.95%25+JEE+Advanced+%C2%B7+CGPA+9.49;%3E+hackathon+podiums%3A+5+and+counting+%F0%9F%8F%86" alt="typing intro"/>
 </a>
